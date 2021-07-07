@@ -1,0 +1,14 @@
+:root {
+    --normal-mode: #FFF;
+    --text-color: #2d2241;
+}
+
+body {
+    background-color: var(--normal-mode);
+    color: var(--text-color);
+}
+.container {
+    text-align: center;
+    width: 300px;
+    margin: 100px auto;
+}

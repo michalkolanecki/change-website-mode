@@ -13,4 +13,4 @@ I used **JavaScript** to create function with change main colors.
 
 ### BACKGROUND AFTER CLICK BUTTON
 
-![cover](./img/black.png)
+![cover](./img/dark.png)
